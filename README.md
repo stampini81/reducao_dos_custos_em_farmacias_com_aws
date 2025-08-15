@@ -28,9 +28,13 @@ Arquivo `modelo-relatorio.md` documenta objetivos, casos de uso e conclusões.
 Imagens:
 
 ![Terraform](img/terraform.png)
+
 ![Amazon S3](img/aws -s3.png)
+
 ![AWS Lambda](img/aws - lambda.png)
+
 ![AWS Backup](img/aws - backup.png)
+
 
 ## Passo a Passo para Verificar as Funcionalidades
 
